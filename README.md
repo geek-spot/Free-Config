@@ -8,7 +8,7 @@ This proxy list is collected from the list of proxies available on the Internet.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## Links 
+## Tested subscription links 🔗
 
   - **all**
     ```bash
