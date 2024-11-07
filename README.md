@@ -10,19 +10,19 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ## Tested subscription links 🔗
 
-  - **all**
+  - **all**  [280]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/all
     ```
-  - **vmess**
+  - **vmess**  [51]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/vmess
     ```
-  - **vless**
+  - **vless**  [31]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/vless
     ```
-  - **shadowsocks**
+  - **shadowsocks**  [197]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/ss
     ```
