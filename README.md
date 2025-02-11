@@ -10,23 +10,23 @@ This proxy list is collected from the list of proxies available on the Internet.
 
 ## Tested subscription links 🔗
 
-  - **all**  [231]
+  - **all**  [184]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/all
     ```
-  - **vmess**  [37]
+  - **vmess**  [14]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/vmess
     ```
-  - **vless**  [46]
+  - **vless**  [113]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/vless
     ```
-  - **shadowsocks**  [138]
+  - **shadowsocks**  [43]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/ss
     ```
-  - **trojan**  [10]
+  - **trojan**  [14]
     ```bash
     https://raw.githubusercontent.com/geek-spot/Free-Config/main/trojan
     ```
